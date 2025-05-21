@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/a4appIe/leetcode/tree/master/0007-reverse-integer) |
+| [0412-fizz-buzz](https://github.com/a4appIe/leetcode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/a4appIe/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/a4appIe/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Divide and Conquer
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/a4appIe/leetcode/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/a4appIe/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/a4appIe/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
