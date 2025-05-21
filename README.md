@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/a4appIe/leetcode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/a4appIe/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/a4appIe/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2619-categorize-box-according-to-criteria](https://github.com/a4appIe/leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [3321-type-of-triangle](https://github.com/a4appIe/leetcode/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
