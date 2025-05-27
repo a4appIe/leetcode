@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/a4appIe/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/a4appIe/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2619-categorize-box-according-to-criteria](https://github.com/a4appIe/leetcode/tree/master/2619-categorize-box-according-to-criteria) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/a4appIe/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/a4appIe/leetcode/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
