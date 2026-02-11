@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/a4appIe/leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/a4appIe/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/a4appIe/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/a4appIe/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/a4appIe/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -45,9 +47,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/a4appIe/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
 | [3321-type-of-triangle](https://github.com/a4appIe/leetcode/tree/master/3321-type-of-triangle) |
 ## Number Theory
 |  |
@@ -66,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/a4appIe/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
