@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/a4appIe/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a4appIe/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/a4appIe/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/a4appIe/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/a4appIe/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/a4appIe/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/a4appIe/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
