@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/a4appIe/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/a4appIe/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/a4appIe/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/a4appIe/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/a4appIe/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/a4appIe/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/a4appIe/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Prefix Sum
