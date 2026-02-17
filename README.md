@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/a4appIe/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/a4appIe/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/a4appIe/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/a4appIe/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/a4appIe/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/a4appIe/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/a4appIe/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/a4appIe/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/a4appIe/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/a4appIe/leetcode/tree/master/0268-missing-number) |
 | [3321-type-of-triangle](https://github.com/a4appIe/leetcode/tree/master/3321-type-of-triangle) |
 ## Number Theory
