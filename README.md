@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/a4appIe/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/a4appIe/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/a4appIe/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0704-binary-search](https://github.com/a4appIe/leetcode/tree/master/0704-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/a4appIe/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3321-type-of-triangle](https://github.com/a4appIe/leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/a4appIe/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/a4appIe/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/a4appIe/leetcode/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
