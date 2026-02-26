@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/a4appIe/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/a4appIe/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/a4appIe/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/a4appIe/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/a4appIe/leetcode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/a4appIe/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/a4appIe/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/a4appIe/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/a4appIe/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/a4appIe/leetcode/tree/master/0242-valid-anagram) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/a4appIe/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/a4appIe/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/a4appIe/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/a4appIe/leetcode/tree/master/0242-valid-anagram) |
