@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/a4appIe/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/a4appIe/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/a4appIe/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/a4appIe/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/a4appIe/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/a4appIe/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/a4appIe/leetcode/tree/master/1929-concatenation-of-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/a4appIe/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/a4appIe/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/a4appIe/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/a4appIe/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/a4appIe/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
