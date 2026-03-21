@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/a4appIe/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/a4appIe/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/a4appIe/leetcode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/a4appIe/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/a4appIe/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/a4appIe/leetcode/tree/master/0344-reverse-string) |
@@ -138,5 +139,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/a4appIe/leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a4appIe/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/a4appIe/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
