@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/a4appIe/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/a4appIe/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/a4appIe/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/a4appIe/leetcode/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/a4appIe/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/a4appIe/leetcode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/a4appIe/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/a4appIe/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a4appIe/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/a4appIe/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
@@ -147,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/a4appIe/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/a4appIe/leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/a4appIe/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
