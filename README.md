@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/a4appIe/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/a4appIe/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/a4appIe/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/a4appIe/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/a4appIe/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/a4appIe/leetcode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/a4appIe/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/a4appIe/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/a4appIe/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/a4appIe/leetcode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/a4appIe/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/a4appIe/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/a4appIe/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a4appIe/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
