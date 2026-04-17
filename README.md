@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/a4appIe/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/a4appIe/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/a4appIe/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/a4appIe/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/a4appIe/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/a4appIe/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/a4appIe/leetcode/tree/master/0402-remove-k-digits) |
 ## Counting
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/a4appIe/leetcode/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/a4appIe/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/a4appIe/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/a4appIe/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Matrix
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/a4appIe/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/a4appIe/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/a4appIe/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
